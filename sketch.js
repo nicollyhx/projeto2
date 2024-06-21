@@ -1,4 +1,4 @@
-Alet cor;
+let cor;
 let circuloX;
 let circuloY;
 
